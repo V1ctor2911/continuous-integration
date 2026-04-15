@@ -11,7 +11,7 @@ public class Calculadora2Test {
 
 		Calculadora calculadora = new Calculadora();
 		double res = calculadora.suma(1, 1);
-		assertEquals(2, res, 0);
+		assertEquals(10, res, 0);
 	}
 
 	@Test

@@ -19,6 +19,6 @@ public class Calculadora2Test {
 
 		Calculadora calculadora = new Calculadora();
 		double res = calculadora.resta(1, 1);
-		assertEquals(0, res, 0);
+		assertEquals(67, res, 0);
 	}
 }

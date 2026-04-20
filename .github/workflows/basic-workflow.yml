@@ -1,5 +1,7 @@
 name: Continuous integration example
 
+on: push
+
 jobs:
 
   test:
